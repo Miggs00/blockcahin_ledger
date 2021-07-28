@@ -1,5 +1,7 @@
 # blockcahin_ledger
-I will be building a blockchain-based ledger system with a an easy to use web interface.
+I will be working on a blockchain-based ledger system with a an easy to use web interface.
+This is an assigment for UC Berkely FinTech Bootcamp
+
 ## Testing the functionality:
 ![challenge18](https://user-images.githubusercontent.com/80865202/127244853-2c382d6a-41a7-4ec1-a21e-2ba75e53a543.JPG)
 ## Confirming it is valid:
